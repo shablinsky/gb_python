@@ -1,0 +1,3 @@
+ivan 100000
+aleksey 50000
+michael 19000
